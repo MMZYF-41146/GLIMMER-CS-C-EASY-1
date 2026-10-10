@@ -12,7 +12,7 @@
             "environment": [],
             "externalConsole": false, //是否使用外置控制台（false表示用VS Code内置终端，true表示弹出独立黑框。
             "MIMode": "gdb",
-            "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe", //
+            "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe", //调试器gdb.exe的具体路径（我的电脑中的D盘）。
             "setupCommands": [
                 {
                     "description": "为 gdb 启动整齐打印",
